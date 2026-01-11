@@ -1,4 +1,4 @@
 Creating readme 
 Completed
 
-Checking Poll SCM
+checking for trigging
